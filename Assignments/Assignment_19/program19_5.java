@@ -14,6 +14,8 @@ class Logic
     }
 }
 
+// Time Complexity : O(N)
+
 class program19_5
 {
     public static void main(String A[])
