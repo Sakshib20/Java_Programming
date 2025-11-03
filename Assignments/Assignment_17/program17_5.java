@@ -11,6 +11,8 @@ class Logic
         
     }
 }
+
+
 class program17_5
 {
     public static void main(String args[])
