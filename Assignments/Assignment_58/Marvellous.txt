@@ -1,0 +1,4 @@
+A.txt23
+Hello welcome to file A
+b.txt28
+These are contents of file B
